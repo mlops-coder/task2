@@ -1,1 +1,3 @@
-Good
+<?php
+printn "good";
+?>
